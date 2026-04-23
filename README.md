@@ -1,17 +1,65 @@
-This repository contains a collection of ASIC design assignments and exercises
-implemented using Verilog HDL and TCL scripting.
+# ASIC Flow Training Repository
 
-These assignments were completed as part of continuous self-learning and
-practice in digital and ASIC design. Each implementation focuses on reinforcing
-core concepts such as:
-RTL design and modeling using Verilog
-Understanding the ASIC design flow
-Writing TCL scripts for basic automation
-Simulation and verification fundamentals
+## Overview
+This repository contains my training assignments covering different stages of the ASIC design flow using Verilog and TCL scripting.
 
-The work in this repository reflects consistent effort, hands-on practice,
-and progressive improvement in ASIC and VLSI design skills.
-﻿
+The work includes RTL design practice, synthesis flow execution, log analysis, and verification steps.
+
+---
+
+## Topics Covered
+
+### RTL Design (Verilog)
+Implementation and practice of important digital design concepts such as:
+
+- Clock Gating
+- Clock Divider
+- Data Synchronization
+- FSM Design
+- CDC (Clock Domain Crossing)
+- RDC (Reset Domain Crossing)
+
+---
+
+### TCL Scripting
+Practice on writing and debugging TCL scripts used in synthesis flow automation.
+
+---
+
+### Synthesis Flow
+Hands-on practice using synthesis commands including:
+
+- analyze
+- elaborate
+- read_file
+- link
+- log file analysis and debugging
+- defining constrains
+- understandding timming , area and power reports
+
+---
+
+### Formal Verification
+Basic usage of Formality to check equivalence between RTL and synthesized netlist.
+
+---
+
+### DFT Basics
+Introduction to scan insertion and understanding testability concepts in ASIC flow.
+
+---
+
+## Repository Structure
+
+Each folder represents a stage in the ASIC flow:
+
+- Synthesis
+- Formality
+- DFT
+- TCL Practice
+- RTL Design Examples
+
+
 ## Work in Progress
 
 In addition to the individual assignments, a larger ASIC-based system is
