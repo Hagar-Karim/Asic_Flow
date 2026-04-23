@@ -1,0 +1,465 @@
+**************************************************
+Report         : passing_points
+
+Reference      : Ref:/WORK/ALU_TOP
+Implementation : Imp:/WORK/ALU_TOP
+Version        : L-2016.03-SP1
+Date           : Sat Feb 28 01:20:06 2026
+**************************************************
+
+143 Passing compare points:
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_Flag_reg
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_Flag_reg
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[0]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_0_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[10]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_10_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[11]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_11_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[12]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_12_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[13]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_13_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[14]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_14_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[15]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_15_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[16]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_16_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[17]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_17_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[18]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_18_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[19]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_19_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[1]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_1_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[20]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_20_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[21]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_21_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[22]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_22_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[23]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_23_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[24]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_24_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[25]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_25_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[26]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_26_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[27]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_27_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[28]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_28_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[29]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_29_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[2]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_2_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[30]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_30_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[31]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_31_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[3]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_3_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[4]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_4_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[5]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_5_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[6]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_6_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[7]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_7_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[8]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_8_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg[9]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Arith_OUT_reg_9_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Carry_OUT_reg
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_ARITHMETIC_UNIT/Carry_OUT_reg
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_CMP_UNIT/CMP_Flag_reg
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_CMP_UNIT/CMP_Flag_reg
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_CMP_UNIT/CMP_OUT_reg[0]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_CMP_UNIT/CMP_OUT_reg_0_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_CMP_UNIT/CMP_OUT_reg[1]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_CMP_UNIT/CMP_OUT_reg_1_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_Flag_reg
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_Flag_reg
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[0]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_0_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[10]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_10_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[11]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_11_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[12]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_12_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[13]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_13_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[14]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_14_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[15]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_15_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[1]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_1_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[2]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_2_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[3]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_3_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[4]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_4_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[5]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_5_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[6]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_6_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[7]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_7_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[8]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_8_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg[9]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_LOGIC_UNIT/Logic_OUT_reg_9_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_Flag_reg
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_Flag_reg
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[0]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_0_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[10]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_10_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[11]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_11_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[12]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_12_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[13]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_13_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[14]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_14_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[15]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_15_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[1]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_1_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[2]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_2_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[3]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_3_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[4]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_4_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[5]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_5_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[6]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_6_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[7]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_7_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[8]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_8_
+
+  Ref  DFF        Ref:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg[9]
+  Impl DFF        Imp:/WORK/ALU_TOP/U0_SHIFT_UNIT/Shift_OUT_reg_9_
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_Flag
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_Flag
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[0]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[0]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[10]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[10]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[11]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[11]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[12]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[12]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[13]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[13]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[14]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[14]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[15]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[15]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[16]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[16]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[17]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[17]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[18]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[18]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[19]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[19]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[1]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[1]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[20]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[20]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[21]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[21]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[22]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[22]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[23]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[23]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[24]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[24]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[25]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[25]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[26]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[26]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[27]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[27]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[28]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[28]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[29]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[29]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[2]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[2]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[30]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[30]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[31]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[31]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[3]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[3]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[4]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[4]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[5]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[5]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[6]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[6]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[7]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[7]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[8]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[8]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Arith_OUT[9]
+  Impl Port       Imp:/WORK/ALU_TOP/Arith_OUT[9]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/CMP_Flag
+  Impl Port       Imp:/WORK/ALU_TOP/CMP_Flag
+
+  Ref  Port       Ref:/WORK/ALU_TOP/CMP_OUT[0]
+  Impl Port       Imp:/WORK/ALU_TOP/CMP_OUT[0]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/CMP_OUT[1]
+  Impl Port       Imp:/WORK/ALU_TOP/CMP_OUT[1]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/CMP_OUT[2]
+  Impl Port       Imp:/WORK/ALU_TOP/CMP_OUT[2]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Carry_OUT
+  Impl Port       Imp:/WORK/ALU_TOP/Carry_OUT
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_Flag
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_Flag
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[0]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[0]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[10]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[10]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[11]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[11]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[12]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[12]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[13]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[13]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[14]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[14]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[15]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[15]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[1]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[1]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[2]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[2]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[3]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[3]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[4]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[4]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[5]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[5]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[6]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[6]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[7]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[7]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[8]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[8]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Logic_OUT[9]
+  Impl Port       Imp:/WORK/ALU_TOP/Logic_OUT[9]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_Flag
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_Flag
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[0]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[0]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[10]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[10]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[11]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[11]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[12]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[12]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[13]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[13]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[14]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[14]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[15]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[15]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[1]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[1]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[2]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[2]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[3]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[3]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[4]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[4]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[5]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[5]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[6]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[6]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[7]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[7]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[8]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[8]
+
+  Ref  Port       Ref:/WORK/ALU_TOP/Shift_OUT[9]
+  Impl Port       Imp:/WORK/ALU_TOP/Shift_OUT[9]
+
+ [BBNet: multiply-driven net
+  BBPin: black-box pin
+  Cut:   cut-point
+  DFF:   non-constant DFF register
+  DFF0:  constant 0 DFF register
+  DFF1:  constant 1 DFF register
+  DFFX:  constant X DFF register
+  DFF0X: constrained 0X DFF register
+  DFF1X: constrained 1X DFF register
+  LAT:   non-constant latch register
+  LAT0:  constant 0 latch register
+  LAT1:  constant 1 latch register
+  LATX:  constant X latch register
+  LAT0X: constrained 0X latch register
+  LAT1X: constrained 1X latch register
+  LATCG: clock-gating latch register
+  TLA:   transparent latch register
+  TLA0X: transparent constrained 0X latch register
+  TLA1X: transparent constrained 1X latch register
+  Loop:  cycle break point
+  Port:  primary (top-level) port
+  Und:   undriven signal cut-point
+  Unk:   unknown signal cut-point]
+
+1

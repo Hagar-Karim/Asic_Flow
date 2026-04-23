@@ -1,0 +1,44 @@
+ 
+****************************************
+Report : area
+Design : ALU_TOP
+Version: K-2015.06
+Date   : Fri Feb 13 01:10:24 2026
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    scmetro_tsmc_cl013g_rvt_ss_1p08v_125c (File: /home/IC/Labs/Lab_Syn_3.1/std_cells/scmetro_tsmc_cl013g_rvt_ss_1p08v_125c.db)
+
+Number of ports:                          109
+Number of nets:                          1999
+Number of cells:                         1617
+Number of combinational cells:           1545
+Number of sequential cells:                72
+Number of macros/black boxes:               0
+Number of buf/inv:                        380
+Number of references:                      94
+
+Combinational area:              21405.349773
+Buf/Inv area:                     3694.837967
+Noncombinational area:            1503.822544
+Macro/Black Box area:                0.000000
+Net Interconnect area:          524582.653564
+
+Total cell area:                 22909.172317
+Total area:                     547491.825881
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area            Local cell area
+                                  -------------------  ----------------------------- 
+Hierarchical cell                 Absolute    Percent  Combi-      Noncombi-  Black-
+                                  Total       Total    national    national   boxes   Design
+--------------------------------  ----------  -------  ----------  ---------  ------  ---------
+ALU_TOP                           22909.1723    100.0  21405.3498  1503.8225  0.0000  ALU_TOP
+--------------------------------  ----------  -------  ----------  ---------  ------  ---------
+Total                                                  21405.3498  1503.8225  0.0000
+
+1

@@ -1,0 +1,144 @@
+**************************************************
+Report         : passing_points
+
+Reference      : REF:/WORK/ALU
+Implementation : IMP:/WORK/ALU
+Version        : L-2016.03-SP1
+Date           : Wed Feb 11 23:48:04 2026
+**************************************************
+
+36 Passing compare points:
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[0]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[0]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[10]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[10]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[11]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[11]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[12]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[12]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[13]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[13]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[14]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[14]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[15]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[15]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[1]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[1]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[2]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[2]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[3]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[3]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[4]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[4]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[5]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[5]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[6]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[6]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[7]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[7]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[8]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[8]
+
+  Ref  DFF        REF:/WORK/ALU/ALU_OUT_reg[9]
+  Impl DFF        IMP:/WORK/ALU/ALU_OUT_reg[9]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[0]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[0]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[10]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[10]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[11]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[11]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[12]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[12]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[13]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[13]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[14]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[14]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[15]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[15]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[1]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[1]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[2]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[2]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[3]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[3]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[4]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[4]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[5]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[5]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[6]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[6]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[7]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[7]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[8]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[8]
+
+  Ref  Port       REF:/WORK/ALU/ALU_OUT[9]
+  Impl Port       IMP:/WORK/ALU/ALU_OUT[9]
+
+  Ref  Port       REF:/WORK/ALU/Arith_Flag
+  Impl Port       IMP:/WORK/ALU/Arith_Flag
+
+  Ref  Port       REF:/WORK/ALU/CMP_Flag
+  Impl Port       IMP:/WORK/ALU/CMP_Flag
+
+  Ref  Port       REF:/WORK/ALU/Logic_Flag
+  Impl Port       IMP:/WORK/ALU/Logic_Flag
+
+  Ref  Port       REF:/WORK/ALU/Shift_Flag
+  Impl Port       IMP:/WORK/ALU/Shift_Flag
+
+ [BBNet: multiply-driven net
+  BBPin: black-box pin
+  Cut:   cut-point
+  DFF:   non-constant DFF register
+  DFF0:  constant 0 DFF register
+  DFF1:  constant 1 DFF register
+  DFFX:  constant X DFF register
+  DFF0X: constrained 0X DFF register
+  DFF1X: constrained 1X DFF register
+  LAT:   non-constant latch register
+  LAT0:  constant 0 latch register
+  LAT1:  constant 1 latch register
+  LATX:  constant X latch register
+  LAT0X: constrained 0X latch register
+  LAT1X: constrained 1X latch register
+  LATCG: clock-gating latch register
+  TLA:   transparent latch register
+  TLA0X: transparent constrained 0X latch register
+  TLA1X: transparent constrained 1X latch register
+  Loop:  cycle break point
+  Port:  primary (top-level) port
+  Und:   undriven signal cut-point
+  Unk:   unknown signal cut-point]
+
+1
